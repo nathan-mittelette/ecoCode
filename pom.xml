@@ -69,7 +69,7 @@
         <sonar.skipDependenciesPackaging>true</sonar.skipDependenciesPackaging>
         <maven-shade-plugin.version>3.4.1</maven-shade-plugin.version>
         <junit.jupiter.version>5.9.1</junit.jupiter.version>
-        <assertJ.version>3.23.1</assertJ.version>
+        <assertJ.version>3.27.7</assertJ.version>
 
         <google.re2j>1.7</google.re2j>
 
